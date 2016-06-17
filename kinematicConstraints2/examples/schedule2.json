@@ -1,0 +1,52 @@
+{
+    "agents": [
+        {
+            "name": "agent0",
+            "group": "0",
+            "path": [
+                {
+                    "x": "1",
+                    "y": "1",
+                    "z": "1",
+                    "locationId": "1",
+                    "action": "0",
+                    "orientation": "1",
+                    "name": "A"
+                },
+                {
+                    "x": "2",
+                    "y": "1",
+                    "z": "1",
+                    "locationId": "2",
+                    "action": "1",
+                    "orientation": "1",
+                    "name": "B"
+                }
+            ]
+        },
+        {
+            "name": "agent1",
+            "group": "1",
+            "path": [
+                {
+                    "x": "2",
+                    "y": "1",
+                    "z": "1",
+                    "locationId": "2",
+                    "action": "0",
+                    "orientation": "1",
+                    "name": "B"
+                },
+                {
+                    "x": "3",
+                    "y": "1",
+                    "z": "1",
+                    "locationId": "3",
+                    "action": "1",
+                    "orientation": "1",
+                    "name": "C"
+                }
+            ]
+        }
+    ]
+}

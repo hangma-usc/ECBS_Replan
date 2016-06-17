@@ -1,0 +1,13 @@
+Towards A Swarm of Agile Micro Quadrotors
+  * http://www.roboticsproceedings.org/rss08/p28.pdf
+  * MIQP for trajectory in teams
+  * Optimization: team split up in groups; environment split in sub-regions
+  * suboptimal results in seconds; optimal result 20min
+  * Space was devided in two regions and 8 vehicles (exploiting symmetry of configuration)
+  * full 3d trajectories w/ advanced kinematic constraints
+
+
+//
+1. Formation flight/reconfiguration => extension to 3d?
+2. warehouse-like dynamic requests => pick k out of n possible goals; where each goal has priority assigned
+3.

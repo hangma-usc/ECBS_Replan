@@ -1,0 +1,136 @@
+{
+    "agents": [
+        {
+            "name": "agent0",
+            "group": "0",
+            "path": [
+                {
+                    "x": "1",
+                    "y": "1",
+                    "z": "0",
+                    "locationId": "8",
+                    "action": "0",
+                    "orientation": "1"
+                },
+                {
+                    "x": "2",
+                    "y": "1",
+                    "z": "0",
+                    "locationId": "9",
+                    "action": "1",
+                    "orientation": "1"
+                },
+                {
+                    "x": "2",
+                    "y": "1",
+                    "z": "0",
+                    "locationId": "9",
+                    "action": "0",
+                    "orientation": "1"
+                },
+                {
+                    "x": "3",
+                    "y": "1",
+                    "z": "0",
+                    "locationId": "10",
+                    "action": "1",
+                    "orientation": "1"
+                },
+                {
+                    "x": "4",
+                    "y": "1",
+                    "z": "0",
+                    "locationId": "11",
+                    "action": "1",
+                    "orientation": "1"
+                },
+                {
+                    "x": "5",
+                    "y": "1",
+                    "z": "0",
+                    "locationId": "12",
+                    "action": "1",
+                    "orientation": "1"
+                }
+            ]
+        },
+        {
+            "name": "agent1",
+            "group": "1",
+            "path": [
+                {
+                    "x": "2",
+                    "y": "1",
+                    "z": "0",
+                    "locationId": "9",
+                    "action": "0",
+                    "orientation": "1"
+                },
+                {
+                    "x": "3",
+                    "y": "1",
+                    "z": "0",
+                    "locationId": "10",
+                    "action": "1",
+                    "orientation": "1"
+                },
+                {
+                    "x": "3",
+                    "y": "1",
+                    "z": "0",
+                    "locationId": "10",
+                    "action": "3",
+                    "orientation": "2"
+                },
+                {
+                    "x": "3",
+                    "y": "2",
+                    "z": "0",
+                    "locationId": "17",
+                    "action": "1",
+                    "orientation": "2"
+                },
+                {
+                    "x": "3",
+                    "y": "2",
+                    "z": "0",
+                    "locationId": "17",
+                    "action": "2",
+                    "orientation": "1"
+                },
+                {
+                    "x": "3",
+                    "y": "2",
+                    "z": "0",
+                    "locationId": "17",
+                    "action": "2",
+                    "orientation": "0"
+                },
+                {
+                    "x": "3",
+                    "y": "1",
+                    "z": "0",
+                    "locationId": "10",
+                    "action": "1",
+                    "orientation": "0"
+                },
+                {
+                    "x": "3",
+                    "y": "1",
+                    "z": "0",
+                    "locationId": "10",
+                    "action": "3",
+                    "orientation": "1"
+                },
+                {
+                    "x": "4",
+                    "y": "1",
+                    "z": "0",
+                    "locationId": "11",
+                    "action": "1",
+                    "orientation": "1"
+                }
+            ]
+        }
+    ]
+}

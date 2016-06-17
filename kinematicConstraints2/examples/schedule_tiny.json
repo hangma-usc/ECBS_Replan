@@ -1,0 +1,157 @@
+{
+    "agents": [
+        {
+            "name": "agent0",
+            "group": "0",
+            "path": [
+                {
+                    "x": "1",
+                    "y": "2",
+                    "z": "0",
+                    "locationId": "15",
+                    "action": "0",
+                    "orientation": "1",
+                    "name": "E"
+                },
+                {
+                    "x": "2",
+                    "y": "2",
+                    "z": "0",
+                    "locationId": "16",
+                    "action": "1",
+                    "orientation": "1",
+                    "name": "F"
+                },
+                {
+                    "x": "3",
+                    "y": "2",
+                    "z": "0",
+                    "locationId": "17",
+                    "action": "1",
+                    "orientation": "1",
+                    "name": "G"
+                },
+                {
+                    "x": "4",
+                    "y": "2",
+                    "z": "0",
+                    "locationId": "18",
+                    "action": "1",
+                    "orientation": "1",
+                    "name": "H"
+                },
+                {
+                    "x": "5",
+                    "y": "2",
+                    "z": "0",
+                    "locationId": "19",
+                    "action": "1",
+                    "orientation": "1",
+                    "name": "I"
+                }
+            ]
+        },
+        {
+            "name": "agent1",
+            "group": "0",
+            "path": [
+                {
+                    "x": "2",
+                    "y": "2",
+                    "z": "0",
+                    "locationId": "16",
+                    "action": "0",
+                    "orientation": "1",
+                    "name": "F"
+                },
+                {
+                    "x": "3",
+                    "y": "2",
+                    "z": "0",
+                    "locationId": "17",
+                    "action": "1",
+                    "orientation": "1",
+                    "name": "G"
+                },
+                {
+                    "x": "4",
+                    "y": "2",
+                    "z": "0",
+                    "locationId": "18",
+                    "action": "1",
+                    "orientation": "1",
+                    "name": "H"
+                },
+                {
+                    "x": "4",
+                    "y": "1",
+                    "z": "0",
+                    "locationId": "11",
+                    "action": "1",
+                    "orientation": "1",
+                    "name": "C"
+                },
+                {
+                    "x": "5",
+                    "y": "1",
+                    "z": "0",
+                    "locationId": "12",
+                    "action": "1",
+                    "orientation": "1",
+                    "name": "D"
+                }
+            ]
+        },
+        {
+            "name": "agent2",
+            "group": "1",
+            "path": [
+                {
+                    "x": "1",
+                    "y": "1",
+                    "z": "0",
+                    "locationId": "8",
+                    "action": "0",
+                    "orientation": "1",
+                    "name": "A"
+                },
+                {
+                    "x": "2",
+                    "y": "1",
+                    "z": "0",
+                    "locationId": "9",
+                    "action": "1",
+                    "orientation": "1",
+                    "name": "B"
+                },
+                {
+                    "x": "2",
+                    "y": "2",
+                    "z": "0",
+                    "locationId": "16",
+                    "action": "1",
+                    "orientation": "1",
+                    "name": "F"
+                },
+                {
+                    "x": "3",
+                    "y": "2",
+                    "z": "0",
+                    "locationId": "17",
+                    "action": "1",
+                    "orientation": "1",
+                    "name": "G"
+                },
+                {
+                    "x": "4",
+                    "y": "2",
+                    "z": "0",
+                    "locationId": "18",
+                    "action": "1",
+                    "orientation": "1",
+                    "name": "H"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "agents": [
+        {
+            "name": "agent0",
+            "max_v": 2.0,
+            "max_w": 1.0
+        },
+        {
+            "name": "agent1",
+            "max_v": 1.0,
+            "max_w": 1.0
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "agents": [
+        {
+            "name": "agent0",
+            "max_v": 0.5,
+            "max_w": 1.0
+        },
+        {
+            "name": "agent1",
+            "max_v": 0.5,
+            "max_w": 1.0
+        },
+        {
+            "name": "agent2",
+            "max_v": 0.5,
+            "max_w": 1.0
+        },
+        {
+            "name": "agent3",
+            "max_v": 0.5,
+            "max_w": 1.0
+        },
+        {
+            "name": "agent4",
+            "max_v": 0.5,
+            "max_w": 1.0
+        },
+        {
+            "name": "agent5",
+            "max_v": 0.5,
+            "max_w": 1.0
+        },
+        {
+            "name": "agent6",
+            "max_v": 0.5,
+            "max_w": 1.0
+        },
+        {
+            "name": "agent7",
+            "max_v": 0.5,
+            "max_w": 1.0
+        },
+        {
+            "name": "agent8",
+            "max_v": 0.5,
+            "max_w": 1.0
+        },
+        {
+            "name": "agent9",
+            "max_v": 0.5,
+            "max_w": 1.0
+        },
+        {
+            "name": "agent10",
+            "max_v": 0.5,
+            "max_w": 1.0
+        },
+        {
+            "name": "agent11",
+            "max_v": 0.5,
+            "max_w": 1.0
+        },
+        {
+            "name": "agent12",
+            "max_v": 0.5,
+            "max_w": 1.0
+        },
+        {
+            "name": "agent13",
+            "max_v": 0.5,
+            "max_w": 1.0
+        },
+        {
+            "name": "agent14",
+            "max_v": 0.5,
+            "max_w": 1.0
+        },
+        {
+            "name": "agent15",
+            "max_v": 0.5,
+            "max_w": 1.0
+        }
+    ]
+}
